@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#name {
+    color: #333;
+    font-family: 'Georgia', serif;
+}
+
+.subtitle {
+    color: #666;
+    font-size: 18px;
+}
+
+#profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px 0;
+    border: 3px solid #333;
+}
+
+#description {
+    font-size: 16px;
+    color: #444;
+    line-height: 1.6;
+    margin: 10px;
+    padding: 10px;
+    border-left: 4px solid #007bff;
+}
