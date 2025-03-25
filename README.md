@@ -25,5 +25,9 @@ Margins, paddings, and borders.
  - Link an external CSS file.
  - Apply at least 3 different selectors.
  - Improve readability and aesthetics.
+My page appearance without css
+ ![query1](my_page_with_no_css.png)
+My page with css styling
+ ![query2](my_page_with_css.png) 
 
 Happy Coding! 💻✨
